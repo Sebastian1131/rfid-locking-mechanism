@@ -1,0 +1,11 @@
+Part,Type,Quantity,Unit price (PLN),Line total (PLN),Link,Vendor,Funding,Notes
+Arduino UNO R3 (CH340 compatible),Part,1,25.00,25.00,,,Already own,Salvaged from an Arduino starter kit
+RFID-RC522 reader module,Part,1,8.00,8.00,,,Already own,Salvaged from an Arduino starter kit
+RFID key fob (13.56 MHz),Part,1,2.00,2.00,,,Already own,Salvaged from an Arduino starter kit
+SG90 servo motor,Part,1,10.00,10.00,,,Already own,Salvaged from an Arduino starter kit
+Passive buzzer,Part,1,2.00,2.00,,,Already own,Salvaged from an Arduino starter kit
+Red LED,Part,1,0.50,0.50,,,Already own,Salvaged from an Arduino starter kit
+Green LED,Part,1,0.50,0.50,,,Already own,Salvaged from an Arduino starter kit
+OLED display,Part,1,0.00,0.00,,,Already own,Gift from friend
+Total,,,,48.00,,,,
+Grant total,,,,0.00,,,,
